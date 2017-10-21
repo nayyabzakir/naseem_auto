@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+        <report
+            id="report_for_naseem_delivery_challan" 
+            model="stock.picking"
+            name="naseem_delivery_challan.module_report"
+            file="naseem_delivery_challan.module_report"
+            report_type="qweb-html"
+            string="Delivery Challan"/> 
+    </data>
+</openerp>
